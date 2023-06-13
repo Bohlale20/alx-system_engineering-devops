@@ -1,2 +1,2 @@
 #!/bin/basjh
-tr -d "cC"
+tr -d "Cc"
