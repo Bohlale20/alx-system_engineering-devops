@@ -1,2 +1,2 @@
-#!/bin/bash
-rev
+#!/bin/basjh
+tr -d "Cc"
